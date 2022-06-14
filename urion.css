@@ -17,6 +17,9 @@ a {
 
 /* secão de apresentação */
 
+.titleImg {
+    align-items: center;
+}
 .container {
     min-height: 100vh;
     width: 100%;
